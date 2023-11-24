@@ -7,6 +7,7 @@ This UI in intended to be the UI of a system that consumes an AI powered api. It
 ## Tech Stack
 
 ### Languages
--JavaScript
--TypeScript
--React.js
+
+- JavaScript
+- TypeScript
+- React.js
